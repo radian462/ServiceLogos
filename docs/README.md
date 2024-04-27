@@ -37,6 +37,7 @@ This is a repository created by Sawaratsuki to upload logos of various services.
    >   2. If permission is granted by Sawaratsuki  
    >      (If you find any violations, please contact [@Sawaratsuki](https://x.com/sawaratsuki1004) immediately!)
 3. It's okay to use stickers, seals, etc., for personal use without permission!
+4. It is prohibited to train AI on these logos and publicly release the data.
 
 # Want a logo that's not here!
 
